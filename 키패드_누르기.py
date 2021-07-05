@@ -1,3 +1,5 @@
+# https://www.notion.so/69b589cef23d44879b209ead57f52d79
+
 def solution(numbers, hand):
     
     hand_ = {'right':'R', 'left':'L'}
