@@ -1,3 +1,5 @@
+# https://www.notion.so/e9897bd01aab4bfdabc8fcacdbece67d
+
 def solution(lottos, win_nums): 
     ranking = [6,6,5,4,3,2,1]
     zero_count = lottos.count(0)
@@ -8,3 +10,4 @@ def solution(lottos, win_nums):
             
     answer = [ranking[same_count+zero_count], ranking[same_count]]
     return answer
+
