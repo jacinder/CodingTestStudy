@@ -1,4 +1,4 @@
-🔥 Programmers_level1
+🔥 Coding Test Study
 --------------
 코딩테스트 준비를 위해 작성하는 코드 기록용 repo 입니다.<br>
 
