@@ -40,6 +40,8 @@ int main(){
 		scanf("%s", temp);
 		for(int j=0;j<col;j++){
 			mold[i][j] = int(temp[j])-'0';
+			// 정수 한글자만 입력받는 법이 기억이 안나서 이렇게 해결했다ㅠ
+			// scanf("%1d",&mold[i][j])
 		}
 
 	}
