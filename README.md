@@ -10,7 +10,7 @@ C++로 코딩테스트를 준비하고자 하여 C++공부, 알고리즘 및 자
 2021.7.6 <a href='https://www.notion.so/e970358188c94464806392ad30b78d68'>모의고사</a>, <a href='https://www.notion.so/K-2a849cbfdd1a477fb8028753b2409173'>K번째수</a>,<a href='https://www.notion.so/9c61c0b68b994eaeb87f90d4eeb3d476'>음양 더하기</a>,<a href='https://www.notion.so/0d582fee53174bc09703a6a1063f7662'>체육복</a><br>
 - - - - - - - - - - - - - - - - -
 Algorithm 공부와 병행하는 것으로 방향 수정<br>
-2021.7.7 <a href='https://www.notion.so/C-STUDY-fec30d82bb274a1398ee9beff7e48fe4#7179667f82a1453192eacf621910fd83'>C++ 공부 1일차</a><br>
+2021.7.7 <a href='https://www.notion.so/C-STUDY-fec30d82bb274a1398ee9beff7e48fe4#7179667f82a1453192eacf621910fd83'>C++ 공부 1일차</a> -> 언어 공부부터 하기가 부담스러워서 Python으로 언어를 선택하기로 결정<br>
 2021.7.9 <a href='https://www.notion.so/8a6ee0ccc1254fc79ca1d8f39a7223eb#1bb091971bca49eba4f75b34b41086e0'>Algorithm 공부: BFS & DFS</a><br>
 <br>개인 프로젝트 사정으로 코딩테스트 공부 일시중단 후 2021.8.9 재개<br>
 이후로 1일 최소 3문제를 목표..!<br><br>
