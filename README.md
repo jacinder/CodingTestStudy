@@ -11,6 +11,6 @@ Python로 코딩테스트를 준비하고자 하여 알고리즘 및 자료구�
 <br>개인 프로젝트 사정으로 코딩테스트 공부 일시중단 후 2021.8.21 재개<br>
 공부의 효율을 위해 level1은 SKIP<br>
 
-2021.8.21 <a href='https://velog.io/@highgrace/%ED%96%89%EB%A0%AC%EC%9D%98-%EA%B3%B1%EC%85%88'>행렬의 곱셈</a><br>, 최댓값과 최솟값
-2021.8.22 <a href='https://velog.io/@highgrace/2018-KAKAO-BLIND-RECRUITMENT3%EC%B0%A8-%ED%8C%8C%EC%9D%BC%EB%AA%85-%EC%A0%95%EB%A0%AC'>파일명 정렬</a><br>,
+2021.8.21 <a href='https://velog.io/@highgrace/%ED%96%89%EB%A0%AC%EC%9D%98-%EA%B3%B1%EC%85%88'>행렬의 곱셈</a>, 최댓값과 최솟값<br>
+2021.8.22 <a href='https://velog.io/@highgrace/2018-KAKAO-BLIND-RECRUITMENT3%EC%B0%A8-%ED%8C%8C%EC%9D%BC%EB%AA%85-%EC%A0%95%EB%A0%AC'>파일명 정렬</a><br>
 2021.8.23 <a href='https://velog.io/@highgrace/2020-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EC%9D%B8%ED%84%B4%EC%8B%AD-%EC%88%98%EC%8B%9D-%EC%B5%9C%EB%8C%80%ED%99%94'>수식 최대화</a><br>
