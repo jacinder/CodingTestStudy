@@ -1,5 +1,4 @@
 import sys
-# import io
 
 command = {'push':0, 'pop':1, 'size':2, 'empty':3, 'top':4}
 stack = []
@@ -9,11 +8,9 @@ for i in range(int(N)):
   line = sys.stdin.readline().rstrip()
   try:
     com, arg = line.split(' ')
-    # print(com,arg)
   except(ValueError):
     com = line
     arg = -1
-    # print(com)
   
   if command[com] == 0: # push
     stack.append(arg)
